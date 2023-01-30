@@ -1,5 +1,5 @@
 # ReactExpressTinkering
-Some tinkering with React and Express/Node.js
+*Some tinkering with React, Express/Node.js, and the Star Wars API*
 
 ---
 
